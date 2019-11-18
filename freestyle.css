@@ -1,0 +1,227 @@
+body {
+    max-width: 1370px;
+    height: 2260px;
+    margin: 0 auto;
+    font-family: Times New Roman;
+}
+
+.header {
+    height: 1057px;
+    background-image: url("images/hero.jpg");
+}
+.head {
+    width: 100%;
+    height: 75px;
+}
+.logo {
+    height: 70px;
+    width: 140px;
+    margin-left: 220px;
+    float: left;
+    color: #314a5b;
+    font-size: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #fa5c65;
+}
+.logotext {
+    color: white;
+    display: inline-block;
+    padding: 35px 0 0 20px;
+    font-weight: bold;
+}
+
+.topnav {
+    margin-left: 340px;
+    float: left;
+}
+.topnav a {
+    float: left;
+    padding-right: 40px;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #263742;
+    font-size: 14px;
+    line-height: 85px;
+}
+
+.slogan {
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 48px;
+    color: #314a5b;
+    margin: 300px 0 0 220px;
+    line-height: 53px;
+    letter-spacing: -4px;
+}
+.slogansmall {
+    display: inline-block;
+    margin-left: 220px;
+    font-size: 20px;
+    line-height: 40.35px;
+    color: #314a5b;
+}
+.read {
+    display: block;
+    margin-left: 220px;
+    height: 65px;
+    margin-top: 45px;
+    width: 170px;
+    background-color: #fa5c65;
+    border-radius: 15px;
+}
+
+.readtext {
+    font-size: 15px;
+    text-transform: uppercase;
+    color: white;
+    line-height: 48.38px;
+}
+
+.content {
+    width: 940px;
+    margin: 0 auto;
+    height: 1203px;
+}
+
+.snippets {
+    height: 360px;
+}
+
+.peace, .free, .deposit {
+    margin: 90px 0 100px 0;
+    width: 33%;
+    float: left;
+    display: block;
+    height: 170px;
+}
+
+.title {
+    font-size: 26px;
+    font-weight: bold;
+    font-family: Montserrat;
+    color: #465065;
+    text-transform: uppercase;
+    line-height: 26px;
+}
+
+.red {
+    color: red;
+    font-size: 26px;
+
+}
+
+.text {
+    font-size: 15px;
+    line-height: 22px;
+    font-family: OpenSans, sans-serif;
+    color: #9aa0ab;
+    margin: 15px 50px 20px 0;
+}
+
+.more {
+    color: #fa5c65;
+    text-transform: uppercase;
+    line-height: 20px;
+    font-size: 14px;
+    font-family: Montserrat, serif;
+}
+.port {
+    height: 400px;
+    width: 100%;
+}
+.mackbook {
+    float:left;
+    height: 406px;
+    width: 424px;
+    opacity: 10;
+}
+.portfolio {
+    float: left;
+    width: 40%;
+    margin: 50px 0 0 40px;
+}
+.title2 {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Montserrat;
+    color: #465065;
+    text-transform: uppercase;
+    line-height: 46px;
+    letter-spacing: -0.4px;
+}
+
+.subtitle {
+    font-size: 16px;
+    font-family: OpenSans;
+    color: #314a5b;
+    line-height: 20px;
+}
+
+.members {
+    height: 120px;
+    margin: 40px 0 55px 0;
+}
+
+.joey, .matt, .mike {
+    width: 33%;
+    height: inherit;
+    display: inline-block;
+    float: left;
+}
+.pic {
+    float: left;
+    margin: 0 30px;
+}
+.info {
+    height: 120px;
+    width: 40%;
+    float: left;
+    display: inline-block;
+}
+.infotitle {
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Montserrat;
+    color: #314a5b;
+    text-transform: uppercase;
+    letter-spacing: -0.2px;
+    line-height: 33.86px;
+}
+
+.infosub {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: OpenSans;
+    color: #f0454c;
+   line-height: 20px;
+}
+
+.infotext {
+    font-size: 14px;
+    font-family: OpenSans;
+    color: #9aa0ab;
+    line-height: 20px;
+}
+
+#teammore {
+    float: right;
+}
+
+.social2 {
+    margin: 35px 20px 0 0;
+}
+
+.footerleft {
+    float: left;
+}
+
+.footerright {
+    float: right;
+    color: #b9c0c6;
+    font-size: 13px;
+    line-height: 20px;
+    font-family: "Times New Roman";
+}
